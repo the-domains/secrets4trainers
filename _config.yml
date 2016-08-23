@@ -2,6 +2,7 @@ name: Secrets4Trainers
 favicon: null
 layout_spectrum: 0.6906042594928294
 typography_spectrum: 0.6570462668314576
+title: secrets4trainers
 cta:
   domain: null
   bucket: null
